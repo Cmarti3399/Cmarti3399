@@ -7,7 +7,7 @@ At the level where I know syntax well, just need to actually code now.
 Spent time learning a few langauges in school. I wasn't really sure about the 
 differeneces, but now I have a more narrow scope on what I'd like to learn. 
 Languages (now) - Python, Java, C++
-Languages (future) - C#, JavaScript, Go, SQL
+Languages (future) - C#, JavaScript, Go, PHP
 
 Still a n00b so any help is appreciated 😃
 Reach me @ martinez.craig94@gmail.com
